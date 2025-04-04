@@ -1,0 +1,11 @@
+RaceSim
+RacingSimulatorLinux
+RacingSimulatorMac
+BuildMac
+BuildLinux
+__pycache__
+vroum
+agent_config.json
+uv.lock
+venv
+.venv
