@@ -71,8 +71,7 @@ At the end of the training, a graph is generated showing:
 across all epochs, helping us identify underfitting or overfitting.
 
 > Example of loss plot:
-> [A AJOUTER APRES]
-> ![Loss curve](docs/loss_curve.png)
+![Loss curve](docs/loss_curve.png)
 
 ## 📁 Project Structure
 
